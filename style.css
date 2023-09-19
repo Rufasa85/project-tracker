@@ -1,0 +1,18 @@
+/* body{
+    background:salmon
+} */
+
+.past{
+    background:salmon
+}
+.present{
+    background: chartreuse;
+}
+
+.delete-btn {
+    cursor: pointer;
+}
+.delete-btn:hover {
+    text-decoration: underline;
+    opacity: 0.5;
+}
